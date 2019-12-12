@@ -10,7 +10,7 @@
           "keyVault": {
             "id": "/subscriptions/b6fd66a6-78af-4d1a-9a45-f428967ceb1e/resourceGroups/RG_TestingLab1/providers/Microsoft.KeyVault/vaults/KVTestingLab1"
           },
-          "secretName": "TestSecret"
+          "secretName": "DefaultPW"
         }
       }
     }
